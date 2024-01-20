@@ -1,2 +1,2 @@
 # raspberrypi
-Ad hoc scripts &amp; experiments for Raspberry Pi.
+Ad hoc scripts &amp; experiments on Raspberry Pi.
